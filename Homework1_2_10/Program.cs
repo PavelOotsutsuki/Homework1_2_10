@@ -23,7 +23,7 @@ namespace Homework1_2_10
                 powCount++;
             }
 
-            Console.WriteLine("Для числа " + enterNumber + " максимальное число равно " + maxNumber + ". Это 2 в " + powCount + " степени.");         
+            Console.WriteLine("Для числа " + enterNumber + " максимальное число равно " + maxNumber + ". Это " + indexNumber + " в " + powCount + " степени.");         
         }
     }
 }
